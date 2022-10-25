@@ -70,12 +70,12 @@ I plan on creating a website where gamers who play rocket league will be able to
 [] User can edit/delete profile
 
 ## Stretch Goal:
-[] profile photo
-[] adding streaming preview of tournament 
-[] adding brackets for tournament
-[] profile following/unfollowing
-[] api to track rocket league rank 
-[] admin checkbar
+- [ ] profile photo
+- [ ] adding streaming preview of tournament 
+- [ ] adding brackets for tournament
+- [ ] profile following/unfollowing
+- [ ] api to track rocket league rank 
+- [ ] admin checkbar
 
 ## Sprint:
 Day 1:
