@@ -60,20 +60,19 @@ I plan on creating a website where gamers who play rocket league will be able to
 - user with an account will be able to edit/delete profile 
 
 ## MVP Goals:
-- [ ] Homepage with site purpose/use 
+- [x] Homepage with site purpose/use 
 - [ ] Page for all tournaments with a search function
-- [ ] tournament details have a discussion part 
+- [x] tournament details have a discussion part 
 - [ ] Users can enter a tournament through details
-- [ ] Users can comment in discussion 
-- [ ] User can edit/delete comment
-- [ ] User has personalized profile
-- [ ] User can edit/delete profile
+- [x] Users can comment in discussion 
+- [x] User can edit/delete comment
+- [x] User has personalized profile
+- [x] User can edit/delete profile
 
 ## Stretch Goal:
-- [ ] profile photo
-- [ ] adding streaming preview of tournament 
+- [x] profile photo
+- [x] adding streaming preview of tournament 
 - [ ] adding brackets for tournament
-- [ ] profile following/unfollowing
 - [ ] api to track rocket league rank 
 - [ ] admin checkbar
 
